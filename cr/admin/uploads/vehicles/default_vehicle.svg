@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="550" viewBox="0 0 800 550" role="img" aria-label="Vehicle placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#101418"/>
+      <stop offset="100%" stop-color="#1d2631"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="550" fill="url(#bg)"/>
+  <circle cx="690" cy="90" r="54" fill="#e53935" opacity="0.18"/>
+  <circle cx="130" cy="90" r="64" fill="#e53935" opacity="0.12"/>
+  <g transform="translate(120 150)">
+    <rect x="70" y="128" width="440" height="114" rx="26" fill="#dfe4ea" opacity="0.12"/>
+    <path d="M98 252 L165 164 C178 152 194 146 213 146 H430 C454 146 475 154 493 172 L563 252 H98 Z" fill="#f4f6f8" opacity="0.95"/>
+    <path d="M168 160 L207 120 C223 104 243 96 264 96 H407 C430 96 450 104 466 120 L510 160 H168 Z" fill="#f4f6f8" opacity="0.9"/>
+    <circle cx="214" cy="282" r="48" fill="#111821"/>
+    <circle cx="472" cy="282" r="48" fill="#111821"/>
+    <circle cx="214" cy="282" r="18" fill="#cfd8dc"/>
+    <circle cx="472" cy="282" r="18" fill="#cfd8dc"/>
+    <rect x="180" y="200" width="120" height="42" rx="14" fill="#dfe4ea" opacity="0.3"/>
+    <rect x="308" y="200" width="92" height="42" rx="14" fill="#dfe4ea" opacity="0.3"/>
+  </g>
+  <text x="400" y="490" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="700">Car</text>
+</svg>

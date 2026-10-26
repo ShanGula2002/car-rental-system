@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /customer/
+Disallow: /driver/
+Disallow: /create_admin.php
+Disallow: /login.php
+Disallow: /logout.php
+Disallow: /register.php
